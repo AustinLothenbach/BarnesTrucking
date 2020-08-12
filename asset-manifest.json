@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BarnesTrucking/static/css/main.d76eb53f.chunk.css",
+    "main.js": "/BarnesTrucking/static/js/main.11efc7c7.chunk.js",
+    "main.js.map": "/BarnesTrucking/static/js/main.11efc7c7.chunk.js.map",
+    "runtime-main.js": "/BarnesTrucking/static/js/runtime-main.f042a0e8.js",
+    "runtime-main.js.map": "/BarnesTrucking/static/js/runtime-main.f042a0e8.js.map",
+    "static/css/2.fb346933.chunk.css": "/BarnesTrucking/static/css/2.fb346933.chunk.css",
+    "static/js/2.a883c30a.chunk.js": "/BarnesTrucking/static/js/2.a883c30a.chunk.js",
+    "static/js/2.a883c30a.chunk.js.map": "/BarnesTrucking/static/js/2.a883c30a.chunk.js.map",
+    "index.html": "/BarnesTrucking/index.html",
+    "precache-manifest.184e36ea59cb1a12a8c7a9e05d652871.js": "/BarnesTrucking/precache-manifest.184e36ea59cb1a12a8c7a9e05d652871.js",
+    "service-worker.js": "/BarnesTrucking/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/BarnesTrucking/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.d76eb53f.chunk.css.map": "/BarnesTrucking/static/css/main.d76eb53f.chunk.css.map",
+    "static/js/2.a883c30a.chunk.js.LICENSE.txt": "/BarnesTrucking/static/js/2.a883c30a.chunk.js.LICENSE.txt",
+    "static/media/landing1.jpg": "/BarnesTrucking/static/media/landing1.0128ad85.jpg",
+    "static/media/landing2.jpg": "/BarnesTrucking/static/media/landing2.6573d8d4.jpg",
+    "static/media/landing3.jpg": "/BarnesTrucking/static/media/landing3.c6b601e2.jpg",
+    "static/media/landing4.jpg": "/BarnesTrucking/static/media/landing4.74eca823.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f042a0e8.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.a883c30a.chunk.js",
+    "static/css/main.d76eb53f.chunk.css",
+    "static/js/main.11efc7c7.chunk.js"
+  ]
+}
