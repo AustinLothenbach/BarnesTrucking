@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ac3cf47e8ee08850dd26b24c1129ac3",
+    "revision": "e34729da473ac360b9a1e8b9de8d228f",
     "url": "/BarnesTrucking/index.html"
   },
   {
-    "revision": "efaa04228d53d995eb4d",
+    "revision": "c15670f60f2a4bbb1a25",
     "url": "/BarnesTrucking/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "c7fc7fbd6fe09bfc9101",
-    "url": "/BarnesTrucking/static/css/main.d76eb53f.chunk.css"
+    "revision": "1afbe902530cfde72854",
+    "url": "/BarnesTrucking/static/css/main.49534ce6.chunk.css"
   },
   {
-    "revision": "efaa04228d53d995eb4d",
-    "url": "/BarnesTrucking/static/js/2.a883c30a.chunk.js"
+    "revision": "c15670f60f2a4bbb1a25",
+    "url": "/BarnesTrucking/static/js/2.f7dcfb32.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/BarnesTrucking/static/js/2.a883c30a.chunk.js.LICENSE.txt"
+    "revision": "f2efbe82e3ec6b086295954b52317f8c",
+    "url": "/BarnesTrucking/static/js/2.f7dcfb32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7fc7fbd6fe09bfc9101",
-    "url": "/BarnesTrucking/static/js/main.11efc7c7.chunk.js"
+    "revision": "1afbe902530cfde72854",
+    "url": "/BarnesTrucking/static/js/main.0d2096b4.chunk.js"
   },
   {
     "revision": "b33d7c201e4656003800",
